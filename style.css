@@ -14,13 +14,13 @@
   display: flex;
   background-color: rgb(240, 221, 213);
   font-family: monospace;
-  font-size: 1.5rem;
+  font-size: 1rem;
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
   /* height: 75%; */
   
-  padding: 0.8rem;
+  padding: 0.8rem;  
   margin: 1rem;
   border-radius: 1rem;
 }
@@ -32,6 +32,6 @@ width: 200px;
 @media all and (max-width:600px){
 .testimonials{
   font-size:0.8rem ;
-  background-color: aqua;
+  
 }
 }

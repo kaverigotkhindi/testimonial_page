@@ -29,3 +29,9 @@ border-radius: 60%;
 height: 200px;
 width: 200px;
 }
+@media all and (max-width:600px){
+.testimonials{
+  font-size:0.8rem ;
+  background-color: aqua;
+}
+}

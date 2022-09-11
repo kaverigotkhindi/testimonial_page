@@ -1,1 +1,1 @@
-Testimonial page is created to demonstrate Flex bo and Grid 
+Testimonial page is created to demonstrate Flex box and Grid 
